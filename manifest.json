@@ -1,0 +1,11 @@
+{
+    "name": "PyConPL GOG Demo",
+    "platform": "pce",
+    "guid": "cea94ced-c6cd-44cf-940c-a6c9253827a0",
+    "version": "0.1",
+    "description": "This is just a demo of a GOG Galaxy 2.0 Python plugin",
+    "author": "Janusz Kamienski",
+    "email": "n/a",
+    "url": "https://github.com/ivellios/pyconpl-gog-demo",
+    "script": "plugin.py"
+}
